@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: mvsgeuz31-java-quarkus-gitops-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/mvsgeuz31-java-quarkus-gitops
